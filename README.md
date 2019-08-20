@@ -1,2 +1,3 @@
 # hello-world
-The real practice repository.
+Hello
+I'm Armin and I like pizza and playing video games.
